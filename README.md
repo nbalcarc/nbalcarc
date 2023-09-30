@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h1>Nathan Balcarcel</h1>
+</div>
+
+## Hello there
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbalcarc&count_private=true&show_icons=true)](https://github.com/nbalcarc)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbalcarc&hide=php)](https://github.com/nbalcarc)
 
 <!--
 **nbalcarc/nbalcarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
