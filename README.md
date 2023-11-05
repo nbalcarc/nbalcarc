@@ -5,7 +5,9 @@
 ## Hello there
 You're looking at my professional GitHub account. To see my personal projects, take a look at my [personal account](https://github.com/TheTerrior).
 
+<!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbalcarc&count_private=true&show_icons=true)](https://github.com/nbalcarc)
+-->
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbalcarc&hide=php)](https://github.com/nbalcarc)
 
