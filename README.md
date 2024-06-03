@@ -2,8 +2,8 @@
     <h1>Nathan Balcarcel</h1>
 </div>
 
-## Hello there
-You're looking at my professional GitHub account. To see my personal projects, take a look at my [personal account](https://github.com/opossalite).
+## Hello there!
+You're looking at my professional GitHub account, which I use for industry and university work. To see my personal projects I've developed outside of coursework, take a look at my [personal account](https://github.com/opossalite).
 
 <!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nbalcarc&count_private=true&show_icons=true)](https://github.com/nbalcarc)
